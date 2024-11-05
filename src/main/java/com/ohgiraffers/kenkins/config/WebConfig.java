@@ -1,4 +1,4 @@
-package com.ohgiraffers.kenkins;
+package com.ohgiraffers.kenkins.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
